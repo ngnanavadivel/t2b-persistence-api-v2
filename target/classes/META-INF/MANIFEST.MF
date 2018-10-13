@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: t2b-persistence-api
+Implementation-Version: 1.0
+Built-By: gnanavad
+Implementation-Vendor-Id: com.t2b.api
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/t2b-persistence-api
+Created-By: Maven Integration for Eclipse
+
